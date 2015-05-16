@@ -1,7 +1,7 @@
 #!bin/bash
 # back
 
-sj=$(date +"%Y%md")
+sj=$(date +"%Y%m%d")
 
 read -p "add your dir" ad
 read -p "your mysql root password " pss
